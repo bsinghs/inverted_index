@@ -1,2 +1,6 @@
 # inverted_index
-Pythin inverted index example
+Code should:
+
+— Returns all Jeopardy answers relevant to a search
+
+— Build an inverted index data stucture
